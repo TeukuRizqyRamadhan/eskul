@@ -1,0 +1,39 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+form {
+    width: 350px;
+    margin: 50px auto;
+}
+
+form div {
+    margin-top: 10px;
+}
+
+form label {
+    display: block;
+    font-weight: bold;
+}
+
+form .input2 {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #dbdbdb;
+    margin-top: 5px;
+    background-color: #e2e2e2;
+}
+
+form #tombol {
+    background-color: orangered;
+    color: white;
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+textarea {
+    resize: none;
+    height: 100px;
+}
